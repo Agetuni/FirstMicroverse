@@ -1,0 +1,9 @@
+#image {
+  width: 80%;
+}
+
+@media screen and(max-width: 720px) {
+  #image {
+    width: 60%;
+  }
+}
